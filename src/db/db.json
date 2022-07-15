@@ -1,0 +1,81 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "description": "Um rapaz chegou num velório e a primeira coisa que perguntou foi: \n– Qual é a senha do Wi-Fi? \nUm parente incomodado disse: \n– Respeite o falecido! \nE ele perguntou: \n– É tudo junto?",
+      "user": {
+        "name": "Marcelo Azevedo",
+        "email": "marcelo@triider.com"
+      },
+      "likes": 19,
+      "dislike": 13,
+      "created": "2020-12-08T11:21:00Z"
+    },
+    {
+      "id": 2,
+      "description": "O pai chega no cartorio para registrar seu filho e o funcionário pergunta,qual o nome da criança? E o pai responde é Edson! Mas depois o funcionário descobre que o filho não tinha nascido ainda, estava na barriga da mulher, com isso o funcionário fala para o pai que não pode fazer o registro porque a criança ainda não nasceu. Depois de um bom tempo o pai retorna no cartorio novamente, com o bêbê no colo, e diz: Quero registrar meu filho e o funcionário pergunta qual o nome? E o pai responde: É Pele. O funcionário falou: Não era Edson? O pai responde: EDSON ERA ANTES DO NASCIMENTO!",
+      "user": {
+        "name": "Fábio Borges",
+        "email": "fabio@triider.com"
+      },
+      "likes": 1,
+      "dislike": 0,
+      "created": "2020-12-09T11:21:00Z"
+    },
+    {
+      "id": 4,
+      "description": "O funcionário reclama do baixo salário que recebe e resolve reclamar com o patrão:\n\n— Meu salário não está compatível com as minhas aptidões!\n\n— Eu sei, eu sei! Mas não podemos deixar você morrer de fome.",
+      "user": {
+        "name": "Thales Sarubbi",
+        "email": "thales@triider.com"
+      },
+      "likes": 0,
+      "dislike": 0,
+      "created": "2020-12-10T11:21:00Z"
+    },
+    {
+      "user": {
+        "name": "asasas",
+        "email": "asasas@assas"
+      },
+      "description": "asass",
+      "likes": 0,
+      "dislike": 0,
+      "created": "2022-07-15T02:44:28.522Z",
+      "id": 5
+    },
+    {
+      "user": {
+        "name": "asdasd",
+        "email": "asdasdasd@asdasd"
+      },
+      "description": "asdasdasd",
+      "likes": 0,
+      "dislike": 0,
+      "created": "2022-07-15T03:48:01.061Z",
+      "id": 6
+    },
+    {
+      "user": {
+        "name": "Vicente Camargo",
+        "email": "vicente.camargo@rocky.ag"
+      },
+      "description": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "likes": 0,
+      "dislike": 0,
+      "created": "2022-07-15T03:54:24.439Z",
+      "id": 7
+    },
+    {
+      "user": {
+        "name": "asdasd",
+        "email": "vicente.camargo001@hotmail.com"
+      },
+      "description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada.",
+      "likes": 0,
+      "dislike": 1,
+      "created": "2022-07-15T11:35:05.271Z",
+      "id": 8
+    }
+  ]
+}
