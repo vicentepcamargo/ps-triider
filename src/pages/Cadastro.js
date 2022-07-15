@@ -151,7 +151,7 @@ export function Cadastro() {
 
     fetch('http://localhost:3001/jokes', request)
 
-    window.location.href = '/listagem';
+    navigate('/listagem');
   }
 
   return (
