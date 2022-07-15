@@ -37,6 +37,35 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+button {
+	cursor: pointer;
+
+	&:focus {
+		border-radius: 0.25rem;
+		border: none;
+		outline: 2px solid #C8051BE5;
+		outline-offset: 3px;
+	}
+}
+
+input:hover, textarea:hover, button:hover {
+	box-shadow: 4px 3px 3px #565656;
+	transition: all 0.1s;
+}
+
+input:focus, textarea:focus, button:focus {
+	border-radius: 0.25rem;
+	border: none;
+	outline: 2px solid #C8051BE5;
+	outline-offset: 3px;
+}
+
+html {
+	font-family: "AvenirBlack", "AvenirBook", "AvenirRoman", Roboto;
+	position: relative;
+}
+
 @media(max-width: 1023px) {
   html {
     font-size: 93.75%;
@@ -47,6 +76,30 @@ ol, ul {
     font-size: 87.5%;
   }
 }
+
+	.react-modal-overlay  {
+		background: rgba(164, 160, 146, 0.8);
+
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		z-index: 2;
+	}
+	
+  .ReactModal__Content {
+		width: 100%;
+		position: unset!important;
+		height: fit-content;
+		max-width: 600px;
+  }
 `;
+
 
 export default GlobalStyled;
